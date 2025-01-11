@@ -34,11 +34,13 @@ f. Ensured data integrity and completeness by applying filters to exclude null o
 **1. Campaign Performance Analysis:**
 
 a. Analyzed key metrics (spend, conversions, conversion rate) by channel to measure performance.
+
 b. Leveraged SQL to calculate conversion rates using click-through and conversion metrics, showcasing analytical and problem-solving skills.
 
 **2. Cost Per Acquisition (CPA):**
 
 a. Calculated CPA for each campaign using SQL queries, highlighting channels with the lowest CPA.
+
 b. Sorted CPA metrics in ascending order to identify cost-effective channels.
 
 **3. Cost-Effectiveness Analysis:**
@@ -54,11 +56,13 @@ a. Used SQL to calculate how many unique users interacted with specific app feat
 **2. Daily/Weekly Active Users (DAU/WAU):**
 
 a. Analyzed user activity trends by calculating daily and weekly active users, using date-based grouping and formatting (FORMAT_DATE and DATE_TRUNC).
+
 b. Extracted and organized data for a time series visualization.
 
 **3. Cohort Analysis:**
 
 a. Created user cohorts based on their first interaction (cohort_date) to track retention over time.
+
 b. Performed temporal analysis to understand how user activity evolved post-signup.
 
 **4. Session Duration Analysis:**
@@ -68,4 +72,5 @@ a. Measured average session duration per feature and user location using AVG to 
 **5. Filters for Segmentation:**
 
 a. Designed queries to segment data by country, device type, and features for granular analysis.
+
 b. Enabled filtering to drill down into specific segments for targeted insights.
