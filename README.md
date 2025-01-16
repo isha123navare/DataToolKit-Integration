@@ -74,3 +74,13 @@ a. Measured average session duration per feature and user location using AVG to 
 a. Designed queries to segment data by country, device type, and features for granular analysis.
 
 b. Enabled filtering to drill down into specific segments for targeted insights.
+
+
+## Key Insights
+1. Email is the Best-Performing Channel by Conversion Rate: Email has the highest conversion rate at 5.51%, indicating that campaigns run via email are most effective at converting clicks into actions compared to other channels. This makes email a valuable channel for targeted marketing, especially for customer retention or promotions.
+   
+2. Paid Search Drives the Highest Total Conversions: Paid Search has the highest total conversions (25,917) among all channels, despite a slightly lower conversion rate (5.18%). This suggests it is excellent for volume-driven campaigns, likely benefiting from broader reach.
+
+3. The "Review" and "Purchase" features are the most widely adopted, with 92 and 91 unique users, respectively, indicating strong user engagement with these functionalities.
+
+4. Denmark leads with the longest average session duration for the "Login" feature, with an average of 6,21 minutes, suggesting strong user engagement during login.
