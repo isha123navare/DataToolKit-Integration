@@ -1,4 +1,4 @@
- —1) Marketing Analytics
+—1) Marketing Analytics
 
 —a. Analyze marketing campaign performance by channel (spend, conversions, and conversion rate)
 
@@ -27,7 +27,7 @@ FROM
 
 —c. Identify the most cost-effective channels in terms of conversions
 
-—SELECT 
+SELECT 
     channel, 
     ROUND(SUM(spend) / NULLIF(SUM(conversions), 0), 2) AS cost_per_conversion
 FROM 
@@ -36,11 +36,6 @@ GROUP BY
     channel
 ORDER BY 
     cost_per_conversion ASC;
-
-
-
-
-
 
 
 
@@ -84,7 +79,6 @@ HAVING
     week IS NOT NULL
 ORDER BY 
     week ASC;
-
 
 
 —d. Perform cohort analysis to track user retention over time.
