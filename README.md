@@ -13,6 +13,11 @@ Marketing Events dataset:
 
 3. campaign_id, channel, spend, clicks, conversions, event_date
 
+## Link to the Visualization: 
+
+https://lookerstudio.google.com/reporting/db1315d2-26a8-43ba-9ad4-0c4d379d2ac9
+
+
 ## Worked On: 
 
 ## 1. Dataset Preparation and BigQuery Analysis
